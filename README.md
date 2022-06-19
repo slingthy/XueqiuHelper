@@ -26,7 +26,7 @@
 ## Config
 | Program | Setting |
 |--|--|
-| python 3.6 |`pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/`</br>`cookie|
+| python 3.6 |`pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/`</br>cookie|
 | Fiddler | 设置proxy代理  |
 | Chrome | 下载并在浏览器中添加  [switchysharp](https://www.switchysharp.com)插件，配置fiddler情景模式 |
 
@@ -61,5 +61,5 @@
  
 
 ## Info
-Author: Github [@slingthy](https://github.com/slingthy)
-Email_address: slingthy@qq.com
+####Author: Github [@slingthy](https://github.com/slingthy)
+####Email_address: slingthy@qq.com
